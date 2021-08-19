@@ -2,7 +2,7 @@
 
 I am a web expert. I love to learn and share my knowledge about programming.
 
-- 🔭 I’m currently working on Laravel and VueJS.
+- 🔭 I’m currently working on Laravel and ReactJS.
 
 Connect with me: [Facebook](https://facebook.com/abdulmajidcse) , [LinkedIn](https://linkedin.com/in/abdulmajidcse) , [Twitter](https://twitter.com/abdulmajidcse) , [YouTube](https://www.youtube.com/channel/UC74l6d0jcefsx0JvHvW4K2Q)
 
