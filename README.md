@@ -1,6 +1,6 @@
 ### Abdul Majid
 
-I am a web expert. I love to learn and share my knowledge about programming.
+I am a web developer. I love to learn and share my knowledge about programming.
 
 - 🔭 I’m currently working on Laravel and ReactJS.
 
