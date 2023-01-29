@@ -1,12 +1,15 @@
-### Abdul Majid
+### Hi, I'm Abdul Majid!
 
-I am a web developer. I love to learn and share my knowledge about programming.
 
-- 🔭 I’m currently working on Laravel and ReactJS.
 
-I have already developed more than 5 Private institute and Govt applications.
+I am **Md Abdul Majid**, a Full-Stack **Web Developer**. I am experiened more than 2 years and working with **Laravel**, **Livewire**, **AlpineJS**, **jQuery**, **ReactJS**, **ReduxJS** and **NextJS**. I use **Bootstrap** and **TailwindCSS** for frontend design and also familiar with **VueJS** and **ExpressJS**. Programming is not only my profession but also a passon!
 
-Connect with me: [Facebook](https://facebook.com/abdulmajidcse) , [LinkedIn](https://linkedin.com/in/abdulmajidcse) , [Twitter](https://twitter.com/abdulmajidcse) , [YouTube](https://www.youtube.com/channel/UC74l6d0jcefsx0JvHvW4K2Q)
+My aim is to bring across your message and identity in the most creative way. I created web applications for few Government and Private Institutes.
+
+I love to share my knowledge with each others, mostly technical. I enjoy learing new things and building something new.
+
+
+Connect with me: [Facebook](https://facebook.com/abdulmajidcse) , [LinkedIn](https://linkedin.com/in/abdulmajidcse) , [Twitter](https://twitter.com/abdulmajidcse) , [YouTube](https://www.youtube.com/@abdulmajidcse)
 
 <!--
 **### Hi there 👋
