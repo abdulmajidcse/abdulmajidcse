@@ -6,7 +6,7 @@ My aim is to bring across your message and identity in the most creative way.
 
 I love to share my knowledge, mostly technical. I enjoy learning new things and building something new.
 
-Connect with me: [LinkedIn](https://linkedin.com/in/abdulmajidcse) , [Medium](https://abdulmajidcse.medium.com) , [YouTube](https://www.youtube.com/@abdulmajidcse) , [Facebook](https://facebook.com/abdulmajidcse) , <a href="https://twitter.com/abdulmajidcse" target="_blank" rel="noopener noreferrer">Twitter</a>
+Connect with me: [LinkedIn](https://linkedin.com/in/abdulmajidcse) , [Medium](https://abdulmajidcse.medium.com) , [YouTube](https://www.youtube.com/@abdulmajidcse) , [Facebook](https://facebook.com/abdulmajidcse) , [Twitter](https://twitter.com/abdulmajidcse)
 
 
 ### Projects
