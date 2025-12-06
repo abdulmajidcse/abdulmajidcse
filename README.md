@@ -20,6 +20,6 @@ Key points:
 6. Focus on base Tech things, and 
 7. So more.
 
-Connect with me: [Website](https://abdulmajid.dev/), [LinkedIn](https://linkedin.com/in/abdulmajidcse) , [Medium](https://abdulmajidcse.medium.com) , [YouTube](https://www.youtube.com/@abdulmajidcse) , [Facebook](https://facebook.com/abdulmajidcse) , [(X) Twitter](https://x.com/abdulmajidcse)
+Connect with me: [LinkedIn](https://linkedin.com/in/abdulmajidcse) , [Medium](https://abdulmajidcse.medium.com) , [YouTube](https://www.youtube.com/@abdulmajidcse) , [Facebook](https://facebook.com/abdulmajidcse) , [(X) Twitter](https://x.com/abdulmajidcse)
 
 **Thank you!**
